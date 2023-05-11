@@ -23,7 +23,8 @@
 
 ## **Tools**
 
-  React.js / CSS
+  - React.js
+  - CSS
 
 ## **Motivation**
 
@@ -31,7 +32,9 @@
 
 ## **Installation**
   
-  - download or clone project - navigate to respective folder - npm i 
+  - download or clone project 
+  - navigate to respective folder 
+  - npm i 
 
 ## **Usage**
 
