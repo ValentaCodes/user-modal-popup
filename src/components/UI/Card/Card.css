@@ -1,0 +1,26 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 20rem;
+    width: 30rem;
+    background-color: beige;
+
+}
+
+/* 
+.card-contents{
+    display: flex;
+    flex-direction: column-reverse;
+} */
+
+.card-contents label{
+    font-size: 20px;
+}
+
+.card-contents input {
+    height: 3rem;
+    width: 50%;
+}
