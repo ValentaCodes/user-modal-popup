@@ -28,7 +28,7 @@
 
 ## **Motivation**
 
-  I wanted to build an application and use modals to display error messages instead of the browser's system display message.
+  I wanted to build an application using custom components. Components like modals, that will display error messages instead of the browser's system display message.
 
 ## **Installation**
   
