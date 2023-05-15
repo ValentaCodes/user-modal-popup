@@ -3,9 +3,8 @@ import './Card.css';
 const Card = (props) => {
   return (
     <>
-      <div className='card'>
-        <div className='card-contents'>{props.children}</div>
-      </div>
+    {/* If we want to use a className in a custom component we must pass it as props */}
+      <div className={`card ${props.className}`}>{props.children}</div>
     </>
   );
 };
