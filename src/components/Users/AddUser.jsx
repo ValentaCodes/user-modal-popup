@@ -1,5 +1,7 @@
 import React from 'react';
 import Card from '../UI/Card/Card';
+import './addUser.css'
+
 const AddUser = (props) => {
   //   const [addUser, setAddUser] = useState('');
   //   const userInput = (event) => {
@@ -11,7 +13,7 @@ const AddUser = (props) => {
   };
 
   return (
-    <Card>
+    <Card className={'input'}>
       <form onSubmit={addUserHandler}>
         <div>
           <label htmlFor='username'>Username</label>

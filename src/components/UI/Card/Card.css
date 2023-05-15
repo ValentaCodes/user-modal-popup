@@ -1,19 +1,22 @@
-.card-container {
+.card {
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
+    margin:  10px;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    /* text-align: center; */
     height: 20rem;
-    width: 30rem;
+    max-width: 40rem;
     background-color: beige;
-
+    border: 2px solid grey;
+    border-radius: 20px;
+    box-shadow: 0 2px;
 }
 
-/* 
-.card-contents{
+
+/* .card-contents{
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
 } */
 
 .card-contents label{
