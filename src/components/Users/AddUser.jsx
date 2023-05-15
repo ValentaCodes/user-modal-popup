@@ -1,8 +1,7 @@
 import React from 'react';
 import Card from '../UI/Card/Card';
 import Button from '../UI/Button/Button';
-import './addUser.css'
-import '../UI/Button/Button.css'
+import './addUser.css';
 
 const AddUser = (props) => {
   //   const [addUser, setAddUser] = useState('');
