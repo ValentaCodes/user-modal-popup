@@ -7,7 +7,7 @@ const Button = (props) => {
     <>
       <button
         className='user-button'
-        // creates a fallback if type isnt assigned when used apply button type
+        // creates a fallback if type isn't assigned when used apply button type
         type={props.type || 'button'}
         // forwards the onClick function
         onClick={props.onClick}
