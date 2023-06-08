@@ -1,0 +1,8 @@
+.user-button {
+    height: 2rem;
+    min-width: 7rem ;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}

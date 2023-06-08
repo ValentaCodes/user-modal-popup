@@ -1,0 +1,9 @@
+li {
+    list-style: none;
+}
+
+.userList {
+    font-size: 20px;
+    height:  auto;
+    min-height: 10rem;
+}
